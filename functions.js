@@ -2,13 +2,14 @@
 
 // -------- Challenge 1 -------- //
 // put this code block into a function, add a return statement, and call the function
-
-let bestPet = 'dog';
-let petName = 'indiana';
-let petString = 'The best pet is a ' + bestPet + ' named ' + petName;
-
+function taterTot (){
+  let bestPet = 'dog';
+  let petName = 'indiana';
+  let petString = 'The best pet is a ' + bestPet + ' named ' + petName;
+  return taterTot
+}
 // return the petString here
-
+taterTot()
 
 // call your function here
 
